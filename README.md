@@ -18,6 +18,15 @@
 This mini project name as mobile phone kiosk is created to help the user to buy things and editing things easier via online mobile phone kiosk app. customer can buy food and drinks from admin via online mobile phone kiosk app and delivery the place customer wants. This means customer can make purchases at any places when you have the desire and spare time. This is quite helpful to busy customer, who have no time to visit stores during regular working hours. In other words, customer can make purchases by using only mobile phone. Other than that, Admin also have an advantages to update items of kiosk using mobile phone online. Admin can delete items, add new items or restock items using this mobile phone online kiosk.
 
 ## FLOWCHART
+![FLowchart 1](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart1.png)
+![FLowchart 2](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart2.png)
+![FLowchart 3](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart3.png)
+![FLowchart 4](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart4.png)
+![FLowchart 5](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart5.png)
+![FLowchart 6](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart6.png)
+![FLowchart 7](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart7.png)
+![FLowchart 8](https://github.com/azhadzuraimi/MOBILE_PHONE_ONLINE_KIOSK/blob/master/assets/Figures/flowchart8.png)
+
 
 
 
