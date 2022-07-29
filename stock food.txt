@@ -1,0 +1,5 @@
+cremo--------	1	120	2
+kitkat_finger	2	47	3
+cereal-------	3	50	4.4
+ayam-goreng123	4	50	10
+sweet_nuggets	5	50	2

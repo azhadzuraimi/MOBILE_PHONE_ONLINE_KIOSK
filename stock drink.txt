@@ -1,0 +1,5 @@
+ribena-------	1	50	1.4
+nescafe------	2	50	2
+soya_bean----	3	50	3
+Mineral------	4	50	4.4
+strawberrydrink	5	50	1.5
